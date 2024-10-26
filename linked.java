@@ -1,15 +1,20 @@
 package Collections;
 
 
+import java.util.Collections;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
 public class linked {
     public static void main(String[] args) {
-       List<String> students = new LinkedList<>();
-       students.add("Monicah");
-       students.add("Kevin");
-       students.add("Michael");
-       System.out.println(students.size());//output 3(returns number of elements)
+       List<Integer> population = new LinkedList<>();
+       population.add(7379);
+       population.add(4556);
+       population.add(5676);
+        Collections.sort(population);
+        for(int p: population) {
+            System.out.println(p);
+        }
     }
 }
