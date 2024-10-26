@@ -1,4 +1,4 @@
-package Collections;
+package Tracom.Collections;
 
 import java.util.HashMap;
 import java.util.Map;
