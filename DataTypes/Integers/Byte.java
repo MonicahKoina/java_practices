@@ -1,4 +1,4 @@
-package Tracom.Integers;
+package Tracom.DataTypes.Integers;
 
 public class Byte {
     //a byte is a type used with integers

@@ -1,4 +1,4 @@
-package Tracom.Integers;
+package Tracom.DataTypes.Integers;
 
 public class Integer {
     //integers are numbers without a decimal point

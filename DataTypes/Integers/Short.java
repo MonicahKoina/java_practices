@@ -1,4 +1,4 @@
-package Tracom.Integers;
+package Tracom.DataTypes.Integers;
 
 public class Short {
     //It is a type used with integers

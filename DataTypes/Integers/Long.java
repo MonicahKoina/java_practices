@@ -1,4 +1,4 @@
-package Tracom.Integers;
+package Tracom.DataTypes.Integers;
 
 public class Long {
     //All numbers in the interval [-9223372036854775808, 9223372036854775807](64bits) can be stored in a long variable
