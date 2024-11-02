@@ -17,6 +17,6 @@ public class Fibonacci {
             count++;
 
         }
-        System.out.println(b);//input 7 .  output=13(13 is the 7th fibonacci number)
+        System.out.println(b);//input 7 .  output 13
     }
 }
