@@ -11,11 +11,7 @@ public class ClassandObjects {
     If I want to combine properties like roll number, names and marks , I can achieve that using a class.
     A class can be used to create your own data type
      */
-    static class Student {
-        int rollno;
-        String names;
-        float marks;
-    }
+
 
     public static void main(String[] args) {
         int[] rollno= new int[5];
@@ -36,4 +32,10 @@ public class ClassandObjects {
         System.out.println(Monicah.rollno);//Output 13
 
     }
+}
+
+ class Student {
+    int rollno;
+    String names;
+    float marks;
 }
